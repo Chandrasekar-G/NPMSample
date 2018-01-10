@@ -1,0 +1,25 @@
+{
+  "name": "npmsample",
+  "version": "1.0.0",
+  "description": "npm POC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chandrasekar-G/NPMSample.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chandrasekar-G/NPMSample/issues"
+  },
+  "homepage": "https://github.com/Chandrasekar-G/NPMSample#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
